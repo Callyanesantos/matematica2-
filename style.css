@@ -15,9 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    height: 60px;
-    padding: 12px 0;
-     
+    width: 25%;
 }
 
 .cabecalho-lista-item{
